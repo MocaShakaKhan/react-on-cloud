@@ -1,0 +1,38 @@
+{
+  "name": "react-on-cloud",
+  "version": "1.0.0",
+  "description": "hello world app",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MocaShakaKhan/react-on-cloud.git"
+  },
+  "author": "Peter Trofimuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MocaShakaKhan/react-on-cloud/issues"
+  },
+  "homepage": "https://github.com/MocaShakaKhan/react-on-cloud#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.0.0-beta.40",
+    "@babel/core": "^7.0.0-beta.40",
+    "@babel/preset-react": "^7.0.0-beta.40",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-lodash": "^3.3.2",
+    "babel-plugin-react-transform": "^3.0.0",
+    "css-loader": "^2.1.1",
+    "path": "^0.12.7",
+    "style-loader": "^0.23.1",
+    "webpack": "^4.29.6",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
