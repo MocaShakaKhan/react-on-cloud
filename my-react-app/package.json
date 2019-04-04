@@ -16,20 +16,20 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MocaShakaKhan/react-on-cloud.git"
+  },
+  "author": "Peter Trofimuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MocaShakaKhan/react-on-cloud/issues"
+  },
+  "homepage": "https://github.com/MocaShakaKhan/react-on-cloud#readme",
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
   ]
-"repository": {
-	    "type": "git",
-	        "url": "git+https://github.com/MocaShakaKhan/react-on-cloud.git"
-		  },
-		    "author": "Peter Trofimuk",
-		      "license": "ISC",
-		        "bugs": {
-				    "url": "https://github.com/MocaShakaKhan/react-on-cloud/issues"
-				      },
-				        "homepage": "https://github.com/MocaShakaKhan/react-on-cloud#readme"
 }
