@@ -22,14 +22,3 @@
     "not ie <= 11",
     "not op_mini all"
   ]
-"repository": {
-	    "type": "git",
-	        "url": "git+https://github.com/MocaShakaKhan/react-on-cloud.git"
-		  },
-		    "author": "Peter Trofimuk",
-		      "license": "ISC",
-		        "bugs": {
-				    "url": "https://github.com/MocaShakaKhan/react-on-cloud/issues"
-				      },
-				        "homepage": "https://github.com/MocaShakaKhan/react-on-cloud#readme"
-}
